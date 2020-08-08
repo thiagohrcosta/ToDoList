@@ -22,3 +22,6 @@ Project **To Do List** developed during the BootCamp Web Developer created by **
 - Routes creation;
 - CSS Styling;
 - Pages creation;
+
+## How to Run this Project
+Just download or fork this repository and then in the main folder just run `nodemon app.js`, this project will run on port 3000 for default. 
